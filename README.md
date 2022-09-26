@@ -1,1 +1,1 @@
-# Mobile-6702
+# kelas aplikasi mobile 6702
