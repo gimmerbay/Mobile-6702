@@ -1,0 +1,5 @@
+fun main() {
+    println("A12.2019.06192")
+    println("Aryo Prayogo Subiyakto")
+    println("Mertouyudan, Magelang")
+}
